@@ -18,7 +18,7 @@ The code is written into a single script file called `fr_test.pl` and consists o
   * Create minimal spanning tree MST using Prim Algorithm
   * Compute number of runs
   * Compute mean, variance, permutation parameter and quantity W
-  * Compute similarity measure (p-Value)
+  * Compute similarity measure
 
 Demo
 -----------
@@ -44,7 +44,7 @@ The input takes of two tab-delimited flat files (matrices l x n and m x n) with 
 
 Output
 -----------
-  Similarity score (same as p-Value) is within *[0,1]*. A score of 1 denotes the highest similarity.
+  Similarity score is in the interval of *[0,1]*. A score of 1 denotes the highest similarity.
 
 **Example:**
 ```
