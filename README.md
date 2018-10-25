@@ -1,13 +1,13 @@
 friedman-rafsky-test
 ====================
-Distribution-based Similarity Measure for Multi-dimensional Point Sets
+Distribution-based similarity measure for multi-dimensional datasets
 
 
 
 Introduction
 -----------
 
-This is an easy to use Perl implementation of the Friedman Rafsky Test as described in 
+Easy-to-use Perl implementation of the Friedman Rafsky Test as described in 
 
 _EL Saddik, Abdulmotaleb; Vuong, Son; Griwodz, Carsten; Del Bimbo, Alberto; Candan, K. Selcuk; Jaimes, Alejandro et al. (**2008**): **Distribution-based similarity measures for multi-dimensional point set retrieval applications.** 
 In: Proceeding of the 16th ACM international conference on Multimedia - MM '08: ACM Press, S. 429._
