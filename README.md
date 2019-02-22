@@ -1,6 +1,6 @@
 friedman-rafsky-test
 ====================
-Distribution-based similarity measure for multi-dimensional datasets
+Distribution-based non-parametric similarity measure for multi-dimensional datasets
 
 
 
