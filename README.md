@@ -35,16 +35,16 @@ List::Util qw(sum)
 ```
 Input
 -----------
-The input takes of two tab-delimited flat files (matrices l x n and m x n) with n attributes, followed by two flags *{-1,1}*, one concerning file headers and the other for printing the distance table.
+The input takes two tab-delimited flat files (matrices l x n and m x n) with n attributes, followed by two flags *{-1,1}*. The first flag denotes whether the files contain headers, the second denotes whether to print the distance table or not.
 
 **Example:**
 ```
-./fr_test.pl dataset1.txt dataset1.txt 1 1
+path/to/fr_test.pl path/to/dataset1.txt  path/to/dataset2.txt 1 1
 ```
 
 Output
 -----------
-  Similarity score is in the interval of *[0,1]*. A score of 1 denotes the highest similarity.
+Similarity score is in the interval of *[0,1]*. A score of 1 denotes the highest similarity.
 
 **Example:**
 ```
